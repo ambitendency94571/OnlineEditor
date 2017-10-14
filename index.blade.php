@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
    <!--  css  -->
-    <link href="css/index.css" rel="stylesheet" type="text/css">
+    <link href="index.css" rel="stylesheet" type="text/css">
     
     <title>CodePlay</title>
 
@@ -56,11 +56,10 @@
     </div>
 
     <!--  javascript  -->
-    <script type="text/javascript" src="js/index1.js"></script>
+    <script type="text/javascript" src="index1.js"></script>
 </body>
 
     
 </html>
-
 
 
